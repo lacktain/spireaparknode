@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0bfc9ff-d192-4466-a1cf-26124f744dd5/resourceGroups/Spireaparking/providers/Microsoft.Web/sites/sp3parkingnode",
+    "appService.deploySubpath": "."
+}
